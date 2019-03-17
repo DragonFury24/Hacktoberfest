@@ -22,6 +22,10 @@ For this repo, we're going to have you put your name in the README. Simply put
 your username linked to your github until the names list. (Follow the format of 
 the other names in the list)
 
+```
+* [username](url-to-github-account)
+```
+
 ## Pushing
 Next, commit your changes and upload then to your github.
 ```
@@ -33,11 +37,13 @@ Next, commit your changes and upload then to your github.
 ## Pull Request
 To do a pull request, go back to the RamDev github. Click on the *pull requests* 
 tab and then to create new pull request. You will be prompted to write a pull request
-message and then be allowed to create the pull request. 
-
+message and then be allowed to create the pull request.
 
 # NAMES
 -----------------
+- [napierbw](https://github.com/napierbw)
+- [naofst](https://github.com/naofst)
+- [rasha-hantash](https://github.com/rasha-hantash) 
 - [DragonFury24](https://github.com/DragonFury24)
 - [princeSuzanne](https://github.com/princeSuzanne)
 - [magroves](https://github.com/magroves)
